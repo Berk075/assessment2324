@@ -1,0 +1,5 @@
+Student name: Berk Yildirim
+Student number: 721730
+Student class: INFVT1b
+GitHub Repository: https://github.com/Berk075/desktop-tutorial
+GitHub Pages URL: https://github.com/Berk075/desktop-tutorial
